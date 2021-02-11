@@ -6,16 +6,16 @@
 
 ## Roadmap
 - [x] Uygulama tasarımı yapımı
-- [] Modüllerin oluşturulması
-- [] Data yapısının oluşturulması
-- [] Liste Elemanlarının Oluşturulması
-- [] Listeye Eleman Ekleme
-- [] Toplam TL ve Dolar Bilgisinin Hesaplanması
-- [] Güncellenecek Bilginin Sorgulanması
-- [] Seçilen Elemanın Kontrollere Aktarılması
-- [] Ekleme ve Güncelleme Arayüzleri
-- [] Güncellemenin Yapılması
-- [] Güncelleme İptal İşlemi
-- [] Listeden Ürün Silme
-- [] Local Storage'a Kayıt Ekleme ve Okuma 
-- [] Local Storage'da Güncelleme ve Silme
+- [x] Modüllerin oluşturulması
+- [x] Data yapısının oluşturulması
+- [x] Liste Elemanlarının Oluşturulması
+- [x] Listeye Eleman Ekleme
+- [x] Toplam TL ve Dolar Bilgisinin Hesaplanması
+- [x] Güncellenecek Bilginin Sorgulanması
+- [x] Seçilen Elemanın Kontrollere Aktarılması
+- [x] Ekleme ve Güncelleme Arayüzleri
+- [x] Güncellemenin Yapılması
+- [x] Güncelleme İptal İşlemi
+- [x] Listeden Ürün Silme
+- [x] Local Storage'a Kayıt Ekleme ve Okuma 
+- [x] Local Storage'da Güncelleme ve Silme
