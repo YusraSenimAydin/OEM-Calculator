@@ -5,9 +5,9 @@
 
 
 ## Roadmap
-- [x] Uygulama tasarımı yapımı
-- [x] Modüllerin oluşturulması
-- [x] Data yapısının oluşturulması
+- [x] Uygulama Tasarımı Yapımı
+- [x] Modüllerin Oluşturulması
+- [x] Data Yapısının Oluşturulması
 - [x] Liste Elemanlarının Oluşturulması
 - [x] Listeye Eleman Ekleme
 - [x] Toplam TL ve Dolar Bilgisinin Hesaplanması
